@@ -115,7 +115,7 @@ selenium-stealth 1.0.6
 
 
 ## 📒 보고서
-* [보고서](https://www.notion.so/h-y-e-j-i/NFT-NFT-cdac61a8c09341beb08ad89d634a816a)
+* [Notion](https://www.notion.so/h-y-e-j-i/NFT-NFT-cdac61a8c09341beb08ad89d634a816a)
 
 ## 📜 참고자료
 * [Airflow](https://airflow.apache.org/)
